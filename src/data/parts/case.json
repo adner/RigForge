@@ -1,0 +1,2769 @@
+[
+  {
+    "id": "case-fractal-terra",
+    "name": "Terra",
+    "brand": "Fractal Design",
+    "priceUSD": 179,
+    "verified": true,
+    "sources": [
+      {
+        "url": "https://www.fractal-design.com/products/cases/terra/terra/graphite/",
+        "title": "Fractal Design Terra Graphite"
+      }
+    ],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX"
+    ],
+    "maxGpuLengthMm": 322,
+    "maxCoolerHeightMm": 48,
+    "radiatorSupport": [
+      120
+    ],
+    "psuFormFactor": [
+      "SFX",
+      "SFX-L"
+    ],
+    "volumeLiters": 10.4,
+    "color": "other",
+    "hasWindow": false,
+    "frontStyle": "solid",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-fractal-terra-black",
+    "name": "Terra Black",
+    "brand": "Fractal Design",
+    "priceUSD": 179,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX"
+    ],
+    "maxGpuLengthMm": 322,
+    "maxCoolerHeightMm": 48,
+    "radiatorSupport": [
+      120
+    ],
+    "psuFormFactor": [
+      "SFX",
+      "SFX-L"
+    ],
+    "volumeLiters": 10.4,
+    "color": "black",
+    "hasWindow": false,
+    "frontStyle": "solid",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-lianli-a4-h2o",
+    "name": "A4-H2O",
+    "brand": "Lian Li",
+    "priceUSD": 149,
+    "verified": true,
+    "sources": [
+      {
+        "url": "https://lian-li.com/product/a4h2o/",
+        "title": "Lian Li A4-H2O"
+      }
+    ],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX"
+    ],
+    "maxGpuLengthMm": 322,
+    "maxCoolerHeightMm": 55,
+    "radiatorSupport": [
+      240
+    ],
+    "psuFormFactor": [
+      "SFX",
+      "SFX-L"
+    ],
+    "volumeLiters": 11,
+    "color": "black",
+    "hasWindow": false,
+    "frontStyle": "solid",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-fractal-ridge",
+    "name": "Ridge",
+    "brand": "Fractal Design",
+    "priceUSD": 129,
+    "verified": true,
+    "sources": [
+      {
+        "url": "https://www.fractal-design.com/products/cases/ridge/ridge/black/",
+        "title": "Fractal Design Ridge Black"
+      }
+    ],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX"
+    ],
+    "maxGpuLengthMm": 335,
+    "maxCoolerHeightMm": 70,
+    "radiatorSupport": [
+      120
+    ],
+    "psuFormFactor": [
+      "SFX",
+      "SFX-L"
+    ],
+    "volumeLiters": 12.6,
+    "color": "black",
+    "hasWindow": false,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-coolermaster-nr200p",
+    "name": "MasterBox NR200P",
+    "brand": "Cooler Master",
+    "priceUSD": 109,
+    "verified": true,
+    "sources": [
+      {
+        "url": "https://www.coolermaster.com/en-global/products/masterbox-nr200p/",
+        "title": "MasterBox NR200P"
+      }
+    ],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX"
+    ],
+    "maxGpuLengthMm": 330,
+    "maxCoolerHeightMm": 155,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280
+    ],
+    "psuFormFactor": [
+      "SFX",
+      "SFX-L"
+    ],
+    "volumeLiters": 18.25,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "solid",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-coolermaster-nr200p-white",
+    "name": "MasterBox NR200P White",
+    "brand": "Cooler Master",
+    "priceUSD": 109,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX"
+    ],
+    "maxGpuLengthMm": 330,
+    "maxCoolerHeightMm": 155,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280
+    ],
+    "psuFormFactor": [
+      "SFX",
+      "SFX-L"
+    ],
+    "volumeLiters": 18.25,
+    "color": "white",
+    "hasWindow": true,
+    "frontStyle": "solid",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-lianli-q58",
+    "name": "Q58",
+    "brand": "Lian Li",
+    "priceUSD": 139,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX"
+    ],
+    "maxGpuLengthMm": 320,
+    "maxCoolerHeightMm": 67,
+    "radiatorSupport": [
+      280
+    ],
+    "psuFormFactor": [
+      "SFX",
+      "SFX-L",
+      "ATX"
+    ],
+    "volumeLiters": 14.5,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-ssupd-meshlicious",
+    "name": "Meshlicious",
+    "brand": "SSUPD",
+    "priceUSD": 129,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX"
+    ],
+    "maxGpuLengthMm": 334,
+    "maxCoolerHeightMm": 73,
+    "radiatorSupport": [
+      280
+    ],
+    "psuFormFactor": [
+      "SFX",
+      "SFX-L"
+    ],
+    "volumeLiters": 14.6,
+    "color": "black",
+    "hasWindow": false,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-fractal-era-2",
+    "name": "Era 2",
+    "brand": "Fractal Design",
+    "priceUSD": 199,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX"
+    ],
+    "maxGpuLengthMm": 326,
+    "maxCoolerHeightMm": 70,
+    "radiatorSupport": [
+      240
+    ],
+    "psuFormFactor": [
+      "SFX",
+      "SFX-L"
+    ],
+    "volumeLiters": 16,
+    "color": "silver",
+    "hasWindow": false,
+    "frontStyle": "solid",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-nzxt-h2-flow",
+    "name": "H2 Flow",
+    "brand": "NZXT",
+    "priceUSD": 129,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX"
+    ],
+    "maxGpuLengthMm": 331,
+    "maxCoolerHeightMm": 165,
+    "radiatorSupport": [
+      120,
+      240,
+      280
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 20.7,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-corsair-2000d-airflow",
+    "name": "iCUE 2000D Airflow",
+    "brand": "Corsair",
+    "priceUSD": 109,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX"
+    ],
+    "maxGpuLengthMm": 365,
+    "maxCoolerHeightMm": 90,
+    "radiatorSupport": [
+      120,
+      240,
+      360
+    ],
+    "psuFormFactor": [
+      "SFX",
+      "SFX-L"
+    ],
+    "volumeLiters": 24.4,
+    "color": "black",
+    "hasWindow": false,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-nzxt-h3-flow",
+    "name": "H3 Flow",
+    "brand": "NZXT",
+    "priceUSD": 99,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 352,
+    "maxCoolerHeightMm": 165,
+    "radiatorSupport": [
+      120,
+      240,
+      280
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 35,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-lianli-a3-matx",
+    "name": "A3-mATX",
+    "brand": "Lian Li",
+    "priceUSD": 69,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 415,
+    "maxCoolerHeightMm": 165,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 26.3,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-coolermaster-masterbox-q300l",
+    "name": "MasterBox Q300L",
+    "brand": "Cooler Master",
+    "priceUSD": 49,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 360,
+    "maxCoolerHeightMm": 157,
+    "radiatorSupport": [
+      120,
+      240
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 33,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 4
+  },
+  {
+    "id": "case-fractal-pop-mini-air",
+    "name": "Pop Mini Air",
+    "brand": "Fractal Design",
+    "priceUSD": 89,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 375,
+    "maxCoolerHeightMm": 170,
+    "radiatorSupport": [
+      120,
+      240,
+      280
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 36,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-corsair-2500x",
+    "name": "2500X",
+    "brand": "Corsair",
+    "priceUSD": 139,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 400,
+    "maxCoolerHeightMm": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 45,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "glass",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-thermaltake-tower-300",
+    "name": "The Tower 300",
+    "brand": "Thermaltake",
+    "priceUSD": 159,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 400,
+    "maxCoolerHeightMm": 210,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 56,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "glass",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-fractal-north",
+    "name": "North",
+    "brand": "Fractal Design",
+    "priceUSD": 139,
+    "verified": true,
+    "sources": [
+      {
+        "url": "https://www.fractal-design.com/products/cases/north/north/charcoal-black/",
+        "title": "Fractal Design North Charcoal Black"
+      }
+    ],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX"
+    ],
+    "maxGpuLengthMm": 355,
+    "maxCoolerHeightMm": 145,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 42,
+    "color": "black",
+    "hasWindow": false,
+    "frontStyle": "mesh",
+    "noiseTier": 2
+  },
+  {
+    "id": "case-fractal-north-white",
+    "name": "North Chalk White",
+    "brand": "Fractal Design",
+    "priceUSD": 139,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX"
+    ],
+    "maxGpuLengthMm": 355,
+    "maxCoolerHeightMm": 145,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 42,
+    "color": "white",
+    "hasWindow": false,
+    "frontStyle": "mesh",
+    "noiseTier": 2
+  },
+  {
+    "id": "case-fractal-north-xl",
+    "name": "North XL",
+    "brand": "Fractal Design",
+    "priceUSD": 199,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 413,
+    "maxCoolerHeightMm": 185,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 60,
+    "color": "black",
+    "hasWindow": false,
+    "frontStyle": "mesh",
+    "noiseTier": 2
+  },
+  {
+    "id": "case-fractal-pop-air",
+    "name": "Pop Air RGB",
+    "brand": "Fractal Design",
+    "priceUSD": 99,
+    "verified": true,
+    "sources": [
+      {
+        "url": "https://www.fractal-design.com/products/cases/pop/pop-air/black-tg-clear-tint/",
+        "title": "Fractal Design Pop Air RGB Black TG"
+      }
+    ],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX"
+    ],
+    "maxGpuLengthMm": 405,
+    "maxCoolerHeightMm": 170,
+    "radiatorSupport": [
+      120,
+      240,
+      280
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 44,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-fractal-define-7-compact",
+    "name": "Define 7 Compact",
+    "brand": "Fractal Design",
+    "priceUSD": 129,
+    "verified": true,
+    "sources": [
+      {
+        "url": "https://www.fractal-design.com/products/cases/define/define-7-compact/black/",
+        "title": "Fractal Design Define 7 Compact Black"
+      }
+    ],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX"
+    ],
+    "maxGpuLengthMm": 341,
+    "maxCoolerHeightMm": 169,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 39.3,
+    "color": "black",
+    "hasWindow": false,
+    "frontStyle": "solid",
+    "noiseTier": 1
+  },
+  {
+    "id": "case-fractal-define-7",
+    "name": "Define 7",
+    "brand": "Fractal Design",
+    "priceUSD": 179,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 467,
+    "maxCoolerHeightMm": 185,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 52,
+    "color": "black",
+    "hasWindow": false,
+    "frontStyle": "solid",
+    "noiseTier": 1
+  },
+  {
+    "id": "case-fractal-meshify-2-compact",
+    "name": "Meshify 2 Compact",
+    "brand": "Fractal Design",
+    "priceUSD": 119,
+    "verified": true,
+    "sources": [
+      {
+        "url": "https://www.fractal-design.com/products/cases/meshify/meshify-2-compact/black-tg-light-tint/",
+        "title": "Fractal Design Meshify 2 Compact Black TG"
+      }
+    ],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX"
+    ],
+    "maxGpuLengthMm": 341,
+    "maxCoolerHeightMm": 169,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 39.4,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-fractal-meshify-2",
+    "name": "Meshify 2",
+    "brand": "Fractal Design",
+    "priceUSD": 159,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 467,
+    "maxCoolerHeightMm": 185,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 48,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-fractal-torrent",
+    "name": "Torrent",
+    "brand": "Fractal Design",
+    "priceUSD": 199,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 461,
+    "maxCoolerHeightMm": 188,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 53,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-fractal-torrent-compact",
+    "name": "Torrent Compact",
+    "brand": "Fractal Design",
+    "priceUSD": 149,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX"
+    ],
+    "maxGpuLengthMm": 330,
+    "maxCoolerHeightMm": 174,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 41,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-corsair-4000d-airflow",
+    "name": "4000D Airflow",
+    "brand": "Corsair",
+    "priceUSD": 99,
+    "verified": true,
+    "sources": [
+      {
+        "url": "https://www.corsair.com/us/en/p/pc-cases/cc-9011200-ww/4000d-airflow-tempered-glass-mid-tower-atx-case-black-cc-9011200-ww",
+        "title": "Corsair 4000D Airflow"
+      }
+    ],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 360,
+    "maxCoolerHeightMm": 170,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 48,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-corsair-4000d-airflow-white",
+    "name": "4000D Airflow White",
+    "brand": "Corsair",
+    "priceUSD": 99,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 360,
+    "maxCoolerHeightMm": 170,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 48,
+    "color": "white",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-corsair-5000d-airflow",
+    "name": "5000D Airflow",
+    "brand": "Corsair",
+    "priceUSD": 149,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 420,
+    "maxCoolerHeightMm": 170,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 61,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-corsair-3500x",
+    "name": "3500X",
+    "brand": "Corsair",
+    "priceUSD": 99,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX"
+    ],
+    "maxGpuLengthMm": 410,
+    "maxCoolerHeightMm": 170,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 50,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "glass",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-corsair-frame-4000d",
+    "name": "Frame 4000D",
+    "brand": "Corsair",
+    "priceUSD": 109,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 430,
+    "maxCoolerHeightMm": 170,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 52,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-lianli-lancool-216",
+    "name": "Lancool 216",
+    "brand": "Lian Li",
+    "priceUSD": 99,
+    "verified": true,
+    "sources": [
+      {
+        "url": "https://lian-li.com/product/lancool-216/",
+        "title": "Lian Li Lancool 216"
+      }
+    ],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 392,
+    "maxCoolerHeightMm": 180,
+    "radiatorSupport": [
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 55,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-lianli-lancool-207",
+    "name": "Lancool 207",
+    "brand": "Lian Li",
+    "priceUSD": 89,
+    "verified": true,
+    "sources": [
+      {
+        "url": "https://lian-li.com/product/lancool-207/",
+        "title": "Lian Li Lancool 207"
+      }
+    ],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX"
+    ],
+    "maxGpuLengthMm": 375,
+    "maxCoolerHeightMm": 180,
+    "radiatorSupport": [
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 45.5,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-lianli-lancool-iii",
+    "name": "Lancool III",
+    "brand": "Lian Li",
+    "priceUSD": 149,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 435,
+    "maxCoolerHeightMm": 187,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 68,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-lianli-o11-dynamic-evo",
+    "name": "O11 Dynamic EVO",
+    "brand": "Lian Li",
+    "priceUSD": 169,
+    "verified": true,
+    "sources": [
+      {
+        "url": "https://lian-li.com/product/o11-dynamic-evo/",
+        "title": "Lian Li O11 Dynamic EVO"
+      }
+    ],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 426,
+    "maxCoolerHeightMm": 167,
+    "radiatorSupport": [
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 66,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "glass",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-lianli-o11-vision",
+    "name": "O11 Vision",
+    "brand": "Lian Li",
+    "priceUSD": 149,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 455,
+    "maxCoolerHeightMm": 167,
+    "radiatorSupport": [
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 69,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "glass",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-lianli-o11-air-mini",
+    "name": "O11 Air Mini",
+    "brand": "Lian Li",
+    "priceUSD": 109,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX"
+    ],
+    "maxGpuLengthMm": 362,
+    "maxCoolerHeightMm": 170,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 43,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-nzxt-h5-flow",
+    "name": "H5 Flow",
+    "brand": "NZXT",
+    "priceUSD": 94,
+    "verified": true,
+    "sources": [
+      {
+        "url": "https://nzxt.com/product/h5-flow",
+        "title": "NZXT H5 Flow"
+      }
+    ],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 410,
+    "maxCoolerHeightMm": 170,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 45,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-nzxt-h5-flow-white",
+    "name": "H5 Flow White",
+    "brand": "NZXT",
+    "priceUSD": 94,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 410,
+    "maxCoolerHeightMm": 170,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 45,
+    "color": "white",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-nzxt-h6-flow",
+    "name": "H6 Flow",
+    "brand": "NZXT",
+    "priceUSD": 109,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX"
+    ],
+    "maxGpuLengthMm": 365,
+    "maxCoolerHeightMm": 163,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 51.8,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-nzxt-h7-flow",
+    "name": "H7 Flow",
+    "brand": "NZXT",
+    "priceUSD": 129,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 410,
+    "maxCoolerHeightMm": 185,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 62.1,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-nzxt-h9-flow",
+    "name": "H9 Flow",
+    "brand": "NZXT",
+    "priceUSD": 159,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 435,
+    "maxCoolerHeightMm": 165,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 76.6,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-bequiet-pure-base-501",
+    "name": "Pure Base 501",
+    "brand": "be quiet!",
+    "priceUSD": 89,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX"
+    ],
+    "maxGpuLengthMm": 369,
+    "maxCoolerHeightMm": 165,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 45,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 2
+  },
+  {
+    "id": "case-bequiet-shadow-base-800-fx",
+    "name": "Shadow Base 800 FX",
+    "brand": "be quiet!",
+    "priceUSD": 179,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 430,
+    "maxCoolerHeightMm": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 63,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 2
+  },
+  {
+    "id": "case-bequiet-dark-base-701",
+    "name": "Dark Base 701",
+    "brand": "be quiet!",
+    "priceUSD": 199,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 430,
+    "maxCoolerHeightMm": 180,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 62,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 2
+  },
+  {
+    "id": "case-bequiet-silent-base-802",
+    "name": "Silent Base 802",
+    "brand": "be quiet!",
+    "priceUSD": 169,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 432,
+    "maxCoolerHeightMm": 185,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 64,
+    "color": "black",
+    "hasWindow": false,
+    "frontStyle": "solid",
+    "noiseTier": 1
+  },
+  {
+    "id": "case-coolermaster-td500-mesh-v2",
+    "name": "MasterBox TD500 Mesh V2",
+    "brand": "Cooler Master",
+    "priceUSD": 109,
+    "verified": true,
+    "sources": [
+      {
+        "url": "https://www.coolermaster.com/en-global/products/masterbox-td500-mesh-v2/",
+        "title": "MasterBox TD500 Mesh V2"
+      }
+    ],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 410,
+    "maxCoolerHeightMm": 165,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 52,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-coolermaster-qube-500",
+    "name": "Qube 500 Flatpack",
+    "brand": "Cooler Master",
+    "priceUSD": 89,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX"
+    ],
+    "maxGpuLengthMm": 365,
+    "maxCoolerHeightMm": 172,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 43,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-phanteks-xt-pro-ultra",
+    "name": "XT Pro Ultra",
+    "brand": "Phanteks",
+    "priceUSD": 79,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 435,
+    "maxCoolerHeightMm": 190,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 65,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-phanteks-eclipse-g360a",
+    "name": "Eclipse G360A",
+    "brand": "Phanteks",
+    "priceUSD": 99,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 400,
+    "maxCoolerHeightMm": 162,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 50,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-phanteks-nv5-mk2",
+    "name": "NV5 MK2",
+    "brand": "Phanteks",
+    "priceUSD": 129,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 440,
+    "maxCoolerHeightMm": 180,
+    "radiatorSupport": [
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 68,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "glass",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-montech-air-903-max",
+    "name": "Air 903 Max",
+    "brand": "Montech",
+    "priceUSD": 79,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 400,
+    "maxCoolerHeightMm": 175,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 50,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-deepcool-ch560",
+    "name": "CH560",
+    "brand": "Deepcool",
+    "priceUSD": 99,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 380,
+    "maxCoolerHeightMm": 175,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 55,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "mesh",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-hyte-y40",
+    "name": "Y40",
+    "brand": "Hyte",
+    "priceUSD": 139,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX"
+    ],
+    "maxGpuLengthMm": 422,
+    "maxCoolerHeightMm": 183,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 50,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "glass",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-hyte-y70",
+    "name": "Y70",
+    "brand": "Hyte",
+    "priceUSD": 199,
+    "verified": false,
+    "sources": [],
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 422,
+    "maxCoolerHeightMm": 185,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 57,
+    "color": "black",
+    "hasWindow": true,
+    "frontStyle": "glass",
+    "noiseTier": 3
+  },
+  {
+    "id": "case-thermaltake-tower-300-snow",
+    "name": "The Tower 300 Snow",
+    "brand": "Thermaltake",
+    "priceUSD": 159,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://www.thermaltake.com/the-tower-300-snow-micro-tower-chassis.html",
+        "title": "Thermaltake The Tower 300 Snow"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 400,
+    "maxCoolerHeightMm": 210,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 56,
+    "color": "white",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-tower-300-turquoise",
+    "name": "The Tower 300 Turquoise",
+    "brand": "Thermaltake",
+    "priceUSD": 159,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://www.thermaltake.com/the-tower-300-turquoise-micro-tower-chassis.html",
+        "title": "Thermaltake The Tower 300 Turquoise"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 400,
+    "maxCoolerHeightMm": 210,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 56,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-tower-300-racing-green",
+    "name": "The Tower 300 Racing Green",
+    "brand": "Thermaltake",
+    "priceUSD": 159,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://www.thermaltake.com/the-tower-300-racing-green-micro-tower-chassis.html",
+        "title": "Thermaltake The Tower 300 Racing Green"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 400,
+    "maxCoolerHeightMm": 210,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 56,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-tower-300-matcha-green",
+    "name": "The Tower 300 Matcha Green",
+    "brand": "Thermaltake",
+    "priceUSD": 159,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://www.thermaltake.com/the-tower-300-matcha-green-micro-tower-chassis.html",
+        "title": "Thermaltake The Tower 300 Matcha Green"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 400,
+    "maxCoolerHeightMm": 210,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 56,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-tower-300-bumblebee",
+    "name": "The Tower 300 Bumblebee",
+    "brand": "Thermaltake",
+    "priceUSD": 159,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://www.thermaltake.com/the-tower-300-bumblebee-micro-tower-chassis.html",
+        "title": "Thermaltake The Tower 300 Bumblebee"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 400,
+    "maxCoolerHeightMm": 210,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 56,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-tower-300-hydrangea-blue",
+    "name": "The Tower 300 Hydrangea Blue",
+    "brand": "Thermaltake",
+    "priceUSD": 159,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://www.thermaltake.com/the-tower-300-hydrangea-blue-micro-tower-chassis.html",
+        "title": "Thermaltake The Tower 300 Hydrangea Blue"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 400,
+    "maxCoolerHeightMm": 210,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 56,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-tower-300-bubble-pink",
+    "name": "The Tower 300 Bubble Pink",
+    "brand": "Thermaltake",
+    "priceUSD": 159,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://www.thermaltake.com/the-tower-300-bubble-pink-micro-tower-chassis.html",
+        "title": "Thermaltake The Tower 300 Bubble Pink"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 400,
+    "maxCoolerHeightMm": 210,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 56,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-tower-300-matcha-plum",
+    "name": "The Tower 300 Matcha Plum",
+    "brand": "Thermaltake",
+    "priceUSD": 159,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://www.thermaltake.com/the-tower-300-matcha-plum-micro-tower-chassis.html",
+        "title": "Thermaltake The Tower 300 Matcha Plum"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 400,
+    "maxCoolerHeightMm": 210,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 56,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-tower-300-peach-fuzz",
+    "name": "The Tower 300 Peach Fuzz",
+    "brand": "Thermaltake",
+    "priceUSD": 159,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://www.thermaltake.com/the-tower-300-peach-fuzz-micro-tower-chassis.html",
+        "title": "Thermaltake The Tower 300 Peach Fuzz"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 400,
+    "maxCoolerHeightMm": 210,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 56,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-tower-300-limestone",
+    "name": "The Tower 300 Limestone",
+    "brand": "Thermaltake",
+    "priceUSD": 159,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://www.thermaltake.com/the-tower-300-limestone-micro-tower-chassis.html",
+        "title": "Thermaltake The Tower 300 Limestone"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 400,
+    "maxCoolerHeightMm": 210,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 56,
+    "color": "white",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-tower-300-gravel-sand",
+    "name": "The Tower 300 Gravel Sand",
+    "brand": "Thermaltake",
+    "priceUSD": 159,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://www.thermaltake.com/the-tower-300-gravel-sand-micro-tower-chassis.html",
+        "title": "Thermaltake The Tower 300 Gravel Sand"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX"
+    ],
+    "maxGpuLengthMm": 400,
+    "maxCoolerHeightMm": 210,
+    "radiatorSupport": [
+      120,
+      240,
+      280,
+      360,
+      420
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 56,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-hyte-y70-strawberry-milk",
+    "name": "Y70 Strawberry Milk",
+    "brand": "Hyte",
+    "priceUSD": 219.99,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://hyte.com/store/y70/cs-hyte-y70-sm",
+        "title": "HYTE Y70 Strawberry Milk"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 422,
+    "maxCoolerHeightMm": 180,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 70.7,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-hyte-y70-taro-milk",
+    "name": "Y70 Taro Milk",
+    "brand": "Hyte",
+    "priceUSD": 219.99,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://hyte.com/store/y70/cs-hyte-y70-tm",
+        "title": "HYTE Y70 Taro Milk"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 422,
+    "maxCoolerHeightMm": 180,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 70.7,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-hyte-y70-blueberry-milk",
+    "name": "Y70 Blueberry Milk",
+    "brand": "Hyte",
+    "priceUSD": 219.99,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://hyte.com/store/y70/cs-hyte-y70-bm",
+        "title": "HYTE Y70 Blueberry Milk"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 422,
+    "maxCoolerHeightMm": 180,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 70.7,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-ceres-350-mx-hydrangea-blue",
+    "name": "Ceres 350 MX Hydrangea Blue",
+    "brand": "Thermaltake",
+    "priceUSD": 119.99,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://latam.thermaltake.com/ceres-350-mx-hydrangea-blue-mid-tower-chassis.html",
+        "title": "Thermaltake Ceres 350 MX Hydrangea Blue"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 360,
+    "maxCoolerHeightMm": 185,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 53.9,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-ceres-350-mx-matcha-green",
+    "name": "Ceres 350 MX Matcha Green",
+    "brand": "Thermaltake",
+    "priceUSD": 119.99,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://latam.thermaltake.com/ceres-350-mx-matcha-green-mid-tower-chassis.html",
+        "title": "Thermaltake Ceres 350 MX Matcha Green"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 360,
+    "maxCoolerHeightMm": 185,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 53.9,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-ceres-350-mx-bumblebee",
+    "name": "Ceres 350 MX Bumblebee",
+    "brand": "Thermaltake",
+    "priceUSD": 119.99,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://latam.thermaltake.com/ceres-350-mx-bumblebee-mid-tower-chassis.html",
+        "title": "Thermaltake Ceres 350 MX Bumblebee"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 360,
+    "maxCoolerHeightMm": 185,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 53.9,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-ceres-350-mx-bubble-pink",
+    "name": "Ceres 350 MX Bubble Pink",
+    "brand": "Thermaltake",
+    "priceUSD": 119.99,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://latam.thermaltake.com/ceres-350-mx-bubble-pink-mid-tower-chassis.html",
+        "title": "Thermaltake Ceres 350 MX Bubble Pink"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 360,
+    "maxCoolerHeightMm": 185,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 53.9,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-ceres-350-mx-racing-green",
+    "name": "Ceres 350 MX Racing Green",
+    "brand": "Thermaltake",
+    "priceUSD": 119.99,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://latam.thermaltake.com/ceres-350-mx-racing-green-mid-tower-chassis.html",
+        "title": "Thermaltake Ceres 350 MX Racing Green"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX",
+      "mATX",
+      "ATX",
+      "E-ATX"
+    ],
+    "maxGpuLengthMm": 360,
+    "maxCoolerHeightMm": 185,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280,
+      360
+    ],
+    "psuFormFactor": [
+      "ATX"
+    ],
+    "volumeLiters": 53.9,
+    "color": "other",
+    "hasWindow": true,
+    "frontStyle": "glass"
+  },
+  {
+    "id": "case-thermaltake-tr100-hydrangea-blue",
+    "name": "TR100 Hydrangea Blue",
+    "brand": "Thermaltake",
+    "priceUSD": 119.99,
+    "verified": true,
+    "addedBy": "seed",
+    "status": "published",
+    "priceUpdatedAt": "2026-08-29T00:00:00Z",
+    "updatedAt": "2026-08-29T00:00:00Z",
+    "category": "case",
+    "noiseTier": 3,
+    "sources": [
+      {
+        "url": "https://latam.thermaltake.com/tr100-hydrangea-blue-mini-tower-chassis.html",
+        "title": "Thermaltake TR100 Hydrangea Blue"
+      }
+    ],
+    "formFactorSupport": [
+      "ITX"
+    ],
+    "maxGpuLengthMm": 360,
+    "maxCoolerHeightMm": 68,
+    "radiatorSupport": [
+      120,
+      140,
+      240,
+      280
+    ],
+    "psuFormFactor": [
+      "SFX",
+      "SFX-L"
+    ],
+    "volumeLiters": 20.6,
+    "color": "other",
+    "hasWindow": false,
+    "frontStyle": "solid"
+  }
+]

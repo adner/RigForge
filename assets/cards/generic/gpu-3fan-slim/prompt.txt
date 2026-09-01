@@ -1,0 +1,5 @@
+mode: generic
+archetype: gpu-3fan-slim
+model: built-in-imagegen
+
+A brand-neutral generic example of a long but slim desktop graphics card with three cooling fans, a dark neutral shroud and a plain metal backplate. Single product or complete matched kit only, centred and filling most of the frame, isolated on a seamless neutral light-grey studio backdrop, three-quarter front view, soft even lighting, sharp focus, photorealistic product photography. No text, letters, numbers, logos, wordmarks, model names, badges, stickers, labels, packaging, cables, hands or people.

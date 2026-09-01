@@ -1,0 +1,5 @@
+mode: generic
+archetype: cooler-air-large
+model: built-in-imagegen
+
+A brand-neutral generic example of a large dual-tower desktop CPU air cooler with two vertical fans and two metal fin stacks. Single product or complete matched kit only, centred and filling most of the frame, isolated on a seamless neutral light-grey studio backdrop, three-quarter front view, soft even lighting, sharp focus, photorealistic product photography. No text, letters, numbers, logos, wordmarks, model names, badges, stickers, labels, packaging, cables, hands or people.

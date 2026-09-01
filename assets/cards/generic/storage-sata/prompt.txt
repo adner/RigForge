@@ -1,0 +1,5 @@
+mode: generic
+archetype: storage-sata
+model: built-in-imagegen
+
+A brand-neutral generic example of a slim 2.5-inch SATA solid-state storage drive in a plain dark metal enclosure. Single product or complete matched kit only, centred and filling most of the frame, isolated on a seamless neutral light-grey studio backdrop, three-quarter front view, soft even lighting, sharp focus, photorealistic product photography. No text, letters, numbers, logos, wordmarks, model names, badges, stickers, labels, packaging, cables, hands or people.

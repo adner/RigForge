@@ -1,0 +1,10 @@
+# Copy to .dev.vars (git-ignored) for local `pnpm dev`.
+IMAGE_API_KEY=sk-...
+TURNSTILE_SECRET=
+# HMAC key for the rb_session cookie. Any long random string; generate one with
+#   node -e "console.log(require('crypto').randomBytes(32).toString('base64url'))"
+SESSION_HMAC_KEY=dev-only-change-me-0123456789abcdef
+# Local-only switches (never set these in production vars):
+DEV_ADMIN_BYPASS=1          # skip Cloudflare Access JWT validation on /api/admin/*
+DEV_VALIDATE_CATALOG=1      # re-validate /api/catalog with zod on every request
+DEV_SKIP_TURNSTILE=1        # POST /api/verify accepts any token (no Turnstile widget needed)

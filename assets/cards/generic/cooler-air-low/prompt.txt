@@ -1,0 +1,5 @@
+mode: generic
+archetype: cooler-air-low
+model: built-in-imagegen
+
+A brand-neutral generic example of a low-profile down-draft desktop CPU air cooler with one horizontal fan over a compact metal heatsink. Single product or complete matched kit only, centred and filling most of the frame, isolated on a seamless neutral light-grey studio backdrop, three-quarter front view, soft even lighting, sharp focus, photorealistic product photography. No text, letters, numbers, logos, wordmarks, model names, badges, stickers, labels, packaging, cables, hands or people.

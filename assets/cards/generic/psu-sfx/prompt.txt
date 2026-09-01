@@ -1,0 +1,5 @@
+mode: generic
+archetype: psu-sfx
+model: built-in-imagegen
+
+A brand-neutral generic example of a compact SFX desktop computer power supply with a dark metal enclosure, one cooling fan and plain modular cable sockets. Single product or complete matched kit only, centred and filling most of the frame, isolated on a seamless neutral light-grey studio backdrop, three-quarter front view, soft even lighting, sharp focus, photorealistic product photography. No text, letters, numbers, logos, wordmarks, model names, badges, stickers, labels, packaging, cables, hands or people.

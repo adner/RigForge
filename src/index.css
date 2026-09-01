@@ -1,0 +1,126 @@
+/* RigBuilder — "the workbench". Tokens documented in docs/THEME.md. */
+@import "tailwindcss";
+@import "@fontsource-variable/big-shoulders-display";
+@import "@fontsource-variable/instrument-sans";
+@import "@fontsource-variable/jetbrains-mono";
+
+@theme {
+  /* ---- surfaces: daylight workbench, ESD mat → ceramic trays ---- */
+  --color-soot: #dce8e3;
+  --color-iron: #fbfbf7;
+  --color-steel: #f1f3ee;
+  --color-plate: #e5ece7;
+  --color-seam: #c5d1cb;
+  --color-seam-strong: #98aaa1;
+
+  /* ---- ink ---- */
+  --color-bone: #202925;
+  --color-ash: #52635b;
+  --color-dust: #78887f;
+
+  /* ---- provenance accents ---- */
+  --color-ember: #ec641f; /* agent / cable orange */
+  --color-ember-dim: #ffdfcf;
+  --color-ember-glow: #ff925d;
+  --color-glacier: #167aa6; /* human / instrument blue */
+  --color-glacier-dim: #d7edf6;
+
+  /* ---- validation semantics (only) ---- */
+  --color-fault: #c83d32;
+  --color-fault-dim: #f8ded9;
+  --color-caution: #a76700;
+  --color-caution-dim: #fff0be;
+  --color-clear: #18764b;
+  --color-clear-dim: #d9eee3;
+  --color-note: #52635b;
+
+  /* ---- type ---- */
+  --font-display: "Big Shoulders Display Variable", "Arial Narrow", sans-serif;
+  --font-sans: "Instrument Sans Variable", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono Variable", ui-monospace, monospace;
+
+  --text-micro: 0.6875rem;
+  --text-micro--line-height: 1rem;
+  --text-spec: 0.75rem;
+  --text-spec--line-height: 1.1rem;
+  --text-body: 0.875rem;
+  --text-body--line-height: 1.35rem;
+  --text-label: 1rem;
+  --text-label--line-height: 1.2rem;
+  --text-title: 1.5rem;
+  --text-title--line-height: 1.5rem;
+  --text-mark: 2rem;
+  --text-mark--line-height: 2rem;
+  --text-gauge: 2.75rem;
+  --text-gauge--line-height: 2.75rem;
+
+  /* ---- radius: machined, not pillowy ---- */
+  --radius-chamfer: 5px;
+  --radius-plate: 9px;
+
+  /* ---- motion ---- */
+  --ease-instrument: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --animate-flash-ember: flash-ember 300ms var(--ease-instrument);
+  --animate-flash-glacier: flash-glacier 300ms var(--ease-instrument);
+  --animate-slide-in: slide-in 220ms var(--ease-instrument);
+  --animate-reveal: reveal 300ms var(--ease-instrument);
+  --animate-drawer-in: drawer-in 260ms var(--ease-instrument);
+
+  @keyframes flash-ember {
+    0% { box-shadow: inset 0 0 0 1px var(--color-ember), 0 0 18px -2px var(--color-ember); background-color: color-mix(in oklab, var(--color-ember) 22%, transparent); }
+    100% { box-shadow: inset 0 0 0 1px transparent, 0 0 0 0 transparent; background-color: transparent; }
+  }
+  @keyframes flash-glacier {
+    0% { box-shadow: inset 0 0 0 1px var(--color-glacier), 0 0 18px -2px var(--color-glacier); background-color: color-mix(in oklab, var(--color-glacier) 22%, transparent); }
+    100% { box-shadow: inset 0 0 0 1px transparent, 0 0 0 0 transparent; background-color: transparent; }
+  }
+  @keyframes slide-in {
+    from { opacity: 0; transform: translateY(-6px); }
+    to { opacity: 1; transform: none; }
+  }
+  @keyframes drawer-in {
+    from { transform: translateX(24px); opacity: 0; }
+    to { transform: none; opacity: 1; }
+  }
+  @keyframes reveal {
+    from { clip-path: inset(0 0 100% 0); opacity: 0.4; }
+    to { clip-path: inset(0 0 0 0); opacity: 1; }
+  }
+}
+
+@layer base {
+  html { color-scheme: light; }
+  body {
+    @apply bg-soot text-bone font-sans text-body antialiased;
+    /* An ESD-mat drafting grid under warm ceramic work trays. */
+    background-image:
+      linear-gradient(rgba(37, 85, 67, 0.035) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(37, 85, 67, 0.035) 1px, transparent 1px),
+      radial-gradient(100% 65% at 50% -10%, rgba(255, 255, 255, 0.82), transparent 66%);
+    background-size: 24px 24px, 24px 24px, 100% 100%;
+    background-attachment: fixed;
+  }
+  ::selection { background: var(--color-ember-dim); color: #4d2411; }
+  :focus-visible { outline: 2px solid var(--color-glacier); outline-offset: 2px; }
+  button { cursor: pointer; }
+  button:disabled { cursor: not-allowed; }
+  /* thin, warm scrollbars */
+  * { scrollbar-width: thin; scrollbar-color: var(--color-seam-strong) transparent; }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+  }
+}
+
+@utility eyebrow {
+  @apply font-sans tracking-[0.04em] text-ash text-spec font-semibold;
+}
+@utility display-h {
+  @apply font-display tracking-[0.02em] font-bold;
+}
+@utility spec {
+  @apply font-mono text-spec text-ash tabular-nums;
+}
+/* Ceramic work tray: crisp rim, soft daylight lift. */
+@utility engraved {
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9), 0 1px 2px rgba(31, 55, 45, 0.08), 0 0 0 1px var(--color-seam);
+}

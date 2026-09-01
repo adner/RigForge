@@ -1,0 +1,57 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "rigbuilder",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-08-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*", "/b/*"]
+  },
+  "observability": { "enabled": true },
+  "vars": {
+    "IMAGE_PROVIDER": "openai",
+    "RENDER_DAILY_CAP": "200",
+    "RENDER_USER_DAILY_CAP": "10",
+    // Public Turnstile site key (invisible widget, docs/BACKEND.md "Turnstile"). Not a secret;
+    // production is configured, and the page reads the active key from /api/health.
+    "TURNSTILE_SITE_KEY": "0x4AAAAAAEhBygUtxwdspT0i",
+    // Cloudflare Access (docs/BACKEND.md): production team domain + the AUD tag of the Access
+    // application protecting /admin and /api/admin/*. A new environment without these values
+    // receives 503 ACCESS_NOT_CONFIGURED from admin routes.
+    "ACCESS_TEAM_DOMAIN": "wild-rain-694e.cloudflareaccess.com",
+    "ACCESS_AUD": "7088d8aff291fdcd9d2900e0c64dc0c6abbff88c717374d9aaf1936f9b6c0b9a"
+  },
+  // Catalog of record (DESIGN.md §6.1). New environments should create `rigbuilder-catalog`
+  // and paste the returned id below; then `pnpm catalog:migrate --remote` and
+  // `pnpm catalog:import --remote`. Local dev needs no id (`pnpm catalog:migrate` +
+  // `pnpm catalog:import` target the local SQLite under .wrangler/).
+  // Production keeps the legacy physical name so the existing catalog data stays in place.
+  "d1_databases": [
+    {
+      "binding": "CATALOG",
+      "database_name": "rigforge-catalog",
+      "database_id": "529e8698-32aa-43b8-9849-dfc7d3cc51ad",
+      "migrations_dir": "scripts/migrations"
+    }
+  ],
+  // Renders (DESIGN.md §4.3): content-addressed `renders/<hash>.webp`.
+  // New environments should create `rigbuilder-renders`; production keeps the legacy
+  // physical bucket name below so existing cards and render artifacts remain available.
+  // (docs/BACKEND.md "Render + share setup"). Local dev uses .wrangler/ storage.
+  "r2_buckets": [{ "binding": "RENDERS", "bucket_name": "rigforge-renders" }],
+  // Share links (DESIGN.md §4.3 export_build): `wrangler kv namespace create BUILDS`
+  // and paste the returned id below. Local dev needs no real id.
+  "kv_namespaces": [{ "binding": "BUILDS", "id": "09445c1395d5405b90609f6043e807c3" }],
+  // Per-IP burst limit for /api/render and POST /api/builds (REVIEW_RESPONSES R2-#7).
+  // namespace_id is any integer unique within the account. Local dev falls back to an
+  // in-memory limiter if the runtime has no ratelimit support.
+  "ratelimits": [{ "name": "RENDER_BURST", "namespace_id": "1001", "simple": { "limit": 5, "period": 60 } }],
+  // Atomic daily render counter (one global instance, keyed by UTC day).
+  "durable_objects": { "bindings": [{ "name": "RENDER_QUOTA", "class_name": "RenderQuota" }] },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["RenderQuota"] }]
+  // Secrets (never in this file): `wrangler secret put IMAGE_API_KEY`,
+  // `wrangler secret put TURNSTILE_SECRET`, `wrangler secret put SESSION_HMAC_KEY`.
+  // Local dev: .dev.vars (see .dev.vars.example).
+}

@@ -1,0 +1,5 @@
+mode: generic
+archetype: ram-4-rgb
+model: built-in-imagegen
+
+A brand-neutral generic example of four desktop memory modules with dark heat spreaders and simple diffused RGB light bars, standing upright side by side. Single product or complete matched kit only, centred and filling most of the frame, isolated on a seamless neutral light-grey studio backdrop, three-quarter front view, soft even lighting, sharp focus, photorealistic product photography. No text, letters, numbers, logos, wordmarks, model names, badges, stickers, labels, packaging, cables, hands or people.
